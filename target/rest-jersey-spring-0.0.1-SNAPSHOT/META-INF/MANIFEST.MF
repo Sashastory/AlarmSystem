@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: AlarmSystem
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Alex
+Specification-Title: AlarmSystem
+Implementation-Vendor-Id: org.sashastory
+Created-By: Apache Maven 3.3.3
+Build-Jdk: 1.8.0_77
+Specification-Version: 0.0.1-SNAPSHOT
+
