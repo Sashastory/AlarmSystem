@@ -23,7 +23,7 @@ import org.junit.Test;
 public class RestDemoServiceIT {
 
 	@Test
-	public void testGetPodcasts() throws JsonGenerationException,
+	public void testGetAlarms() throws JsonGenerationException,
 			JsonMappingException, IOException {
 
 		ClientConfig clientConfig = new ClientConfig();
